@@ -1,0 +1,21 @@
+html {
+    background-color: beige;
+}
+body {
+    background-color: white;
+    min-height: 100vh;
+    max-width: 850px;
+    margin: 0 auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 120%;
+}
+
+
+header h2 {
+    font-size: 250%;
+    text-align: center;
+    margin-top: 15;
+}
+.bannerimage {
+    max-width: 500px;
+}
